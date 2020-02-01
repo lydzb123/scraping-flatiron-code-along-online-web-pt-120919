@@ -11,5 +11,6 @@ class Course
   end
 
   def reset_all
+    @@all = []
 
 end
